@@ -1,2 +1,3 @@
 # -*- coding: utf-8 -*-
-print("HI GHGHHHHHHH")
+print("HI GH")
+print("SUM")
